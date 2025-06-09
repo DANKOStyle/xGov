@@ -1,34 +1,34 @@
-Идентификатор: 
-Автор: Фадеев Александр (@sashafadeev)
-Электронная почта: porodistaia@gmail.com
-Адрес: GPN2XGX42DW4BNMVW27YUO7U7VLK2A4SKMP3CZ34ENTPCZ2URBK4YSSFJA
-Статус: Финал
+**Identifier:**  
+**Author:** Alexander Fadeev (@sashafadeev)  
+**Email:** porodistaia@gmail.com  
+**Wallet Address:** GPN2XGX42DW4BNMVW27YUO7U7VLK2A4SKMP3CZ34ENTPCZ2URBK4YSSFJA  
+**Status:** Finalist  
 
-## Введение
+## 🧭 Introduction
 
-Я артист звезда российской эстрады, предприниматель и популяризатор Web3, участвую в становлении новой цифровой экономики. Уверен, что блокчейн Algorand — это не просто технология, а один из столпов будущей финансовой системы. Моей целью является продвижение идеи децентрализации, прозрачности и справедливого распределения ресурсов.
+I am a well-known Russian pop artist, entrepreneur, and Web3 advocate. I actively contribute to the development of the new digital economy and see Algorand not only as a technology, but as a cornerstone of the future global financial system. My mission is to promote decentralization, transparency, and fair resource distribution through media, education, and real-world engagement.
 
-## Социальные профили
+## 📲 Social Profiles
 
-- Telegram: @dankostyle
-- GitHub: [https://github.com/sashafadeev](https://github.com/sashafadeev)
-- YouTube: [https://youtube.com/@danko](https://youtube.com/@danko)
-- X/Twitter: [https://twitter.com/DankoEnergy](https://twitter.com/DankoEnergy)
-- instagram: @danko_star
+- Telegram: [@dankostyle](https://t.me/dankostyle)  
+- GitHub: [https://github.com/sashafadeev](https://github.com/sashafadeev)  
+- YouTube: [https://youtube.com/@danko](https://youtube.com/@danko)  
+- Twitter (X): [https://twitter.com/DankoEnergy](https://twitter.com/DankoEnergy)  
+- Instagram: [@danko_star](https://instagram.com/danko_star)
 
-## Соответствующий опыт
+## 🧠 Relevant Experience
 
-- Активно изучаю и применяю блокчейн Algorand с 2021 года. Участвовал во всех голосованиях xgov
-- Создатель концепции стандарта обмена цифровыми сообщениями **ICO-222**, направленного на интеграцию традиционных финансов с Web3.
-- Имею опыт взаимодействия с криптосообществами, создания обучающего контента и публичных выступлений.
-- Обладаю большим медиавлиянием, что позволит эффективно продвигать идеи xGov.
+- Active in the Algorand ecosystem since 2021. Participated in all xGov voting rounds.  
+- Creator of the **ICO-222** messaging standard — a proposed framework for integrating traditional finance and Web3.  
+- Experienced public speaker and educator in the crypto space.  
+- Strong social media and media presence to support promotion of xGov initiatives and community awareness.
 
-## Проектная принадлежность
+## 🔗 Project Affiliations
 
-- Algorand NFD-домен: **danko.algo**
-- Кошелек Algorand: **GPN2XGX42DW4BNMVW27YUO7U7VLK2A4SKMP3CZ34ENTPCZ2URBK4YSSFJA**
-- Постоянное участие в стейкинге и голосованиях
+- NFD: **danko.algo**  
+- Wallet: **GPN2XGX42DW4BNMVW27YUO7U7VLK2A4SKMP3CZ34ENTPCZ2URBK4YSSFJA**  
+- Consistent participant in staking, voting, and governance activities.
 
-## Дополнительная информация
+## 🌍 Additional Information
 
-Я считаю, что Совет должен быть не только техническим, но и гуманитарным, где представлены голоса артистов, педагогов, мыслителей и визионеров. Я готов быть представителем нового взгляда на децентрализованное будущее.  
+I believe the xGov Council should represent not only technical experts, but also cultural voices — artists, educators, thinkers, and visionaries. Governance is not only about protocols, but about people. I am committed to bringing a fresh, human-centered perspective to decentralized governance and to building a vibrant, inclusive Web3 future.
